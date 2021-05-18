@@ -2,7 +2,7 @@
 
 namespace RockPaperScissors
 {
-    class Program
+    class RockPaperScissors
     {
         public static void Main(string[] args)
         {
