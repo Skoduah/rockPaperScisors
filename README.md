@@ -1,2 +1,2 @@
 # rockPaperScisors
-Simple Rock Paper Scissors Program written in C#
+Simple Rock Paper Scissors Program Written in C#
